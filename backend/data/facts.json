@@ -1,0 +1,22 @@
+{
+  "full_name": "Oluwasegun Ayomide Ajayi",
+  "name": "Ayomide",
+  "current_role": "Software engineer and AI engineer",
+  "location": "Nigeria",
+  "email": "ajayioluwasegun2018@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/oluwasegun-ayomide-ajayi/",
+  "specialties": [
+    "AI engineering — RAG, LLM fine-tuning, agent systems, LangChain, LangGraph, CrewAI, AutoGen, MCP",
+    "Backend engineering and infrastructure",
+    "Frontend engineering - Animation, 3D experiences, and immersive web interactions",
+    "Machine learning and intelligent systems (e.g. speech-to-sign language translation)"
+  ],
+  "years_experience": 6,
+  "education": [
+    {
+      "degree": "B.Tech. Computer Science",
+      "institution": "Federal University of Technology, Akure, Nigeria",
+      "year": "2025"
+    }
+  ]
+}

@@ -16,3 +16,7 @@ __pycache__/
 # Node
 node_modules/
 frontend/node_modules/
+
+# Lambda
+lambda-deployment.zip
+lambda-package/
