@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Hello",
+    "timestamp": "2026-04-11T21:57:09.782333"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! Nice to see you here. What brings you to my website?",
+    "timestamp": "2026-04-11T21:57:09.782340"
+  },
+  {
+    "role": "user",
+    "content": "Ooouu, okay I am looking for details.",
+    "timestamp": "2026-04-11T21:57:26.303013"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure, I\u2019d be happy to help. What specific details are you looking for? It could be about my background, skills, projects, or anything else in particular. Just let me know!",
+    "timestamp": "2026-04-11T21:57:26.303021"
+  },
+  {
+    "role": "user",
+    "content": "What are you experiences",
+    "timestamp": "2026-04-11T21:57:38.253910"
+  },
+  {
+    "role": "assistant",
+    "content": "I have about six years of experience in software engineering and AI engineering. My journey began with a foundation in full-stack development, where I built end-to-end products involving both frontend and backend technologies.\n\nOver time, I\u2019ve shifted my focus more towards AI engineering, specializing in areas like Retrieval-Augmented Generation (RAG), LLM fine-tuning, and agent-based systems. I've worked with technologies such as LangChain, LangGraph, CrewAI, AutoGen, and MCP. \n\nOne of my notable projects was developing a real-time speech-to-sign language translation system using machine learning during my final year at the Federal University of Technology, Akure. This project not only challenged my technical skills but also ignited my passion for creating solutions that have a real-world impact.\n\nApart from technical skills, I bring a creative edge to my work, especially in frontend engineering, where I enjoy designing visually refined, interactive, and immersive user experiences. If there\u2019s a specific area you\u2019d like to hear more about, feel free to ask!",
+    "timestamp": "2026-04-11T21:57:38.253932"
+  },
+  {
+    "role": "user",
+    "content": "Thank you. What school did you go to and what did you study?",
+    "timestamp": "2026-04-11T21:58:59.293913"
+  },
+  {
+    "role": "assistant",
+    "content": "I studied at the Federal University of Technology, Akure, Nigeria, where I earned a Bachelor of Technology (B.Tech) in Computer Science. My education there not only provided me with a solid foundation in software engineering principles but also allowed me to pursue projects that I'm passionate about, like my final year project focused on developing a real-time speech-to-sign language translation system using machine learning. It was an enriching experience that shaped my career path. If you have any more questions about my education or experience, let me know!",
+    "timestamp": "2026-04-11T21:58:59.293934"
+  }
+]
