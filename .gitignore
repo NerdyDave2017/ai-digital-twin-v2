@@ -9,7 +9,7 @@ frontend/.env.*.local
 __pycache__/
 *.pyc
 .venv/
-uv.lock
+venv/
 
 # IDE
 .vscode/
@@ -31,6 +31,10 @@ lambda-package/
 .terraform/
 .terraform.lock.hcl
 terraform.tfstate.d/
-*.tfvars
-!terraform.tfvars
-!prod.tfvars
+*.tfvars.secret
+
+# Memory storage (contains conversation history)
+memory/
+
+# AWS
+.aws/
