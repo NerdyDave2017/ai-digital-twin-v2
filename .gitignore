@@ -1,5 +1,6 @@
 memory/
 .venv/
+.DS_Store
 
 # Secrets — never commit (rotate keys if .env was ever pushed)
 .env
