@@ -22,6 +22,29 @@ variable "bedrock_model_id" {
   default     = "amazon.nova-micro-v1:0"
 }
 
+variable "openrouter_api_key"{
+  description = "OpenRouter API key"
+  type        = string
+  default     = ""
+}
+
+variable "openrouter_base_url" {
+  description = "OpenRouter base URL"
+  type        = string
+  default     = "https://openrouter.ai/api/v1"
+}
+
+variable openrouter_model_id {
+  description = "OpenRouter model ID"
+  type        = string
+  default     = "gpt-4o-mini"
+}
+
+variable "use_openrouter" {
+  description = "Use OpenRouter"
+  type        = bool
+  default     = true
+}
 variable "lambda_timeout" {
   description = "Lambda function timeout in seconds"
   type        = number
